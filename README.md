@@ -19,7 +19,7 @@ Ensure the following tools are installed on your system:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/pve-template-creator.git
+    git clone https://github.com/dlbogdan/pve-template-creator.git
     cd pve-template-creator
     ```
 
